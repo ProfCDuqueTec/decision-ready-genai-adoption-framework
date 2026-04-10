@@ -9,7 +9,7 @@ authors:
   - family-names: "Ostos Morales"
     given-names: "Isvett"
     affiliation: "Tecnológico de Monterrey"
-repository-code: "https://github.com/YOUR-USERNAME/decision-ready-genai-adoption-framework"
+repository-code: "https://github.com/ProfCDuqueTec/decision-ready-genai-adoption-framework"
 abstract: "A replication-ready analytic framework for studying generative AI adoption in engineering education, with emphasis on Global South and resource-heterogeneous contexts."
 keywords:
   - generative AI
