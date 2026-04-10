@@ -1,0 +1,25 @@
+variable_name,description,type,allowed_values
+age,Participant age,numeric,integer
+gender,Self-reported gender,categorical,Female|Male|Other|Prefer not to say
+semester,Current semester,numeric,2|4|6|8
+prior_ai_experience,Previous experience with AI tools,categorical,Yes|No
+PE1,Performance Expectancy item 1,ordinal,1|2|3|4|5
+PE2,Performance Expectancy item 2,ordinal,1|2|3|4|5
+PE3,Performance Expectancy item 3,ordinal,1|2|3|4|5
+PE4,Performance Expectancy item 4,ordinal,1|2|3|4|5
+EE1,Effort Expectancy item 1,ordinal,1|2|3|4|5
+EE2,Effort Expectancy item 2,ordinal,1|2|3|4|5
+EE3,Effort Expectancy item 3,ordinal,1|2|3|4|5
+EE4,Effort Expectancy item 4,ordinal,1|2|3|4|5
+SI1,Social Influence item 1,ordinal,1|2|3|4|5
+SI2,Social Influence item 2,ordinal,1|2|3|4|5
+SI3,Social Influence item 3,ordinal,1|2|3|4|5
+SI4,Social Influence item 4,ordinal,1|2|3|4|5
+FC1,Facilitating Conditions item 1,ordinal,1|2|3|4|5
+FC2,Facilitating Conditions item 2,ordinal,1|2|3|4|5
+FC3,Facilitating Conditions item 3,ordinal,1|2|3|4|5
+FC4,Facilitating Conditions item 4,ordinal,1|2|3|4|5
+BI1,Use frequency for search and research,ordinal,1|2|3|4|5
+BI2,Use frequency for summaries and assignment preparation,ordinal,1|2|3|4|5
+BI3,Use frequency for project and coursework development,ordinal,1|2|3|4|5
+BI4,Use frequency for exam and evaluation preparation,ordinal,1|2|3|4|5
