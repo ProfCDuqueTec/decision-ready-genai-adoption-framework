@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Decision-Ready GenAI Adoption Framework"
+message: "If you use this repository, please cite the associated paper and this repository."
+type: software
+authors:
+  - family-names: "Duque Becerra"
+    given-names: "Camilo Rene"
+    affiliation: "Tecnológico de Monterrey"
+  - family-names: "Ostos Morales"
+    given-names: "Isvett"
+    affiliation: "Tecnológico de Monterrey"
+repository-code: "https://github.com/YOUR-USERNAME/decision-ready-genai-adoption-framework"
+abstract: "A replication-ready analytic framework for studying generative AI adoption in engineering education, with emphasis on Global South and resource-heterogeneous contexts."
+keywords:
+  - generative AI
+  - engineering education
+  - UTAUT
+  - Global South
+  - adoption
+  - replication
+  - HC3 robust inference
+license: "MIT"
