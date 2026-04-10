@@ -1,0 +1,21 @@
+item_code,construct,item_text,scale_type,notes
+PE1,PE,I believe that using generative AI will improve my academic performance,likert_1_5,Perceived academic value
+PE2,PE,I believe that generative AI will help me better understand the concepts in my courses,likert_1_5,Conceptual support
+PE3,PE,I believe that incorporating generative AI will increase efficiency in completing my assignments and projects,likert_1_5,Task efficiency
+PE4,PE,I believe that using generative AI will make it easier for me to prepare for exams and assessments,likert_1_5,Assessment preparation
+EE1,EE,I believe that learning to use generative AI is easy for me,likert_1_5,Tool learnability
+EE2,EE,I believe that interacting with generative AI is clear and easy to understand,likert_1_5,Interaction clarity
+EE3,EE,I believe that integrating generative AI into my academic activities requires minimal effort,likert_1_5,Workflow integration
+EE4,EE,I am confident that I will be able to master the use of generative AI without difficulty,likert_1_5,Mastery confidence
+SI1,SI,I believe that my classmates support the use of generative AI in learning,likert_1_5,Peer support
+SI2,SI,I believe that my instructors actively encourage the use of generative AI,likert_1_5,Faculty encouragement
+SI3,SI,I believe that the educational community views the implementation of generative AI positively,likert_1_5,Institutional climate
+SI4,SI,I believe that the people who are important to me think that I should use generative AI in my studies,likert_1_5,Important others
+FC1,FC,I believe that my educational institution provides the technological resources needed to use generative AI,likert_1_5,Infrastructure support
+FC2,FC,I believe that I have access to training on the use of generative AI,likert_1_5,Training availability
+FC3,FC,I believe that technical support is available to solve issues related to generative AI,likert_1_5,Technical support
+FC4,FC,I believe that my institution’s policies and guidelines support the integration of generative AI into learning,likert_1_5,Policy support
+BI1,BI,Information search and research,frequency_1_5,Usage activity
+BI2,BI,Summarising and assignment preparation,frequency_1_5,Usage activity
+BI3,BI,Project and coursework development,frequency_1_5,Usage activity
+BI4,BI,Exam and evaluation preparation,frequency_1_5,Usage activity
