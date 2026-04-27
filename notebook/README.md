@@ -8,7 +8,7 @@ The notebook documents and operationalizes the analytic workflow used to study g
 
 ### `Duque_and_Ostos_Educon_2026_definitive.ipynb`
 
-[![Open In Colab]][(https://colab.research.google.com/github/TU-USUARIO/decision-ready-genai-adoption-framework/blob/main/notebooks/decision_ready_genai_adoption_workflow.ipynb](https://colab.research.google.com/drive/1PYhS92aJnxb8OCl2GLC__eqFCg45f57i?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PYhS92aJnxb8OCl2GLC__eqFCg45f57i?usp=sharing)
 
 This is the curated and publication-ready notebook for the framework.
 
